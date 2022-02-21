@@ -1,0 +1,9 @@
+init 
+status
+add
+commit -m 
+log
+checkout
+clon
+push
+reset
